@@ -1,0 +1,11 @@
+C:\Users\YusufSahin\source\repos\FibonacciOrnek\FibonacciOrnek\bin\Debug\FibonacciOrnek.exe.config
+C:\Users\YusufSahin\source\repos\FibonacciOrnek\FibonacciOrnek\bin\Debug\FibonacciOrnek.exe
+C:\Users\YusufSahin\source\repos\FibonacciOrnek\FibonacciOrnek\bin\Debug\FibonacciOrnek.pdb
+C:\Users\YusufSahin\source\repos\FibonacciOrnek\FibonacciOrnek\obj\Debug\FibonacciOrnek.csproj.AssemblyReference.cache
+C:\Users\YusufSahin\source\repos\FibonacciOrnek\FibonacciOrnek\obj\Debug\FibonacciOrnek.csproj.SuggestedBindingRedirects.cache
+C:\Users\YusufSahin\source\repos\FibonacciOrnek\FibonacciOrnek\obj\Debug\FibonacciOrnek.Form1.resources
+C:\Users\YusufSahin\source\repos\FibonacciOrnek\FibonacciOrnek\obj\Debug\FibonacciOrnek.Properties.Resources.resources
+C:\Users\YusufSahin\source\repos\FibonacciOrnek\FibonacciOrnek\obj\Debug\FibonacciOrnek.csproj.GenerateResource.cache
+C:\Users\YusufSahin\source\repos\FibonacciOrnek\FibonacciOrnek\obj\Debug\FibonacciOrnek.csproj.CoreCompileInputs.cache
+C:\Users\YusufSahin\source\repos\FibonacciOrnek\FibonacciOrnek\obj\Debug\FibonacciOrnek.exe
+C:\Users\YusufSahin\source\repos\FibonacciOrnek\FibonacciOrnek\obj\Debug\FibonacciOrnek.pdb
